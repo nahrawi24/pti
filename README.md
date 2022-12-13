@@ -1,2 +1,2 @@
 # pti
-ini folder until belabor
+ini folder untuk belajar
